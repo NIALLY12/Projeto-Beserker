@@ -5,11 +5,11 @@
 
 ---
 
- Sobre este Repositório
-Aqui você encontrará os códigos forjados durante minhas jornadas de aprendizado. Desde os primeiros golpes no mundo do desenvolvimento até os projetos mais complexos, este é o lugar onde cada linha de código reflete meu espírito combativo e minha determinação para dominar novas tecnologias
+### Sobre este Repositório
+Aqui você encontrará os códigos forjados durante minhas jornadas de aprendizado. Desde os primeiros golpes no mundo do desenvolvimento até os projetos mais complexos, este é o lugar onde cada linha de código reflete meu espírito combativo e minha determinação para dominar novas tecnologias💀
 ---
 
- Missões em Curso
+#### Missões em Curso
  Missão: html css java
  Missão: passar de ano
  
@@ -22,5 +22,6 @@ Aqui você encontrará os códigos forjados durante minhas jornadas de aprendiza
 Tem alguma dúvida, sugestão, ou desafio para um Berserker como eu? Sinta-se à vontade para me procurar:
 
 ## Entre em contato para ser um beserker com honra
- Email:https://mail.google.com/mail/u/0/
- Meu GitHub
+ Email:https://mail.google.com/mail/u/
+
+jogo beserker
