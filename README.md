@@ -22,6 +22,6 @@ Aqui você encontrará os códigos forjados durante minhas jornadas de aprendiza
 Tem alguma dúvida, sugestão, ou desafio para um Berserker como eu? Sinta-se à vontade para me procurar:
 
 ## Entre em contato para ser um beserker com honra
- Email:https://mail.google.com/mail/u/0/#inbox?compose=new
+- 📫 Contato: [wagner.souza.santos@esscola.pr.gov.br](https://mail.google.com/mail/u/0/?fs=1&to=wagner.souza.santos@escola.pr.gov.br&tf=cm)
 
-jogo beserker
+## jogo beserker
