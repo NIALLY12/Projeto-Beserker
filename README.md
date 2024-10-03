@@ -27,4 +27,4 @@ Tem alguma dúvida, sugestão, ou desafio para um Berserker como eu? Sinta-se à
 ## jogo beserker
 - 😈 Jogo; [JOGO](https://editor.p5js.org/wagner.souza.santos/full/UimmhWjp-)
 
-  <img src="https://static.myfigurecollection.net/upload/pictures/2023/07/31/3692316.gif" alt="obrigado meus guerreiros" width="200" />
+  <img src="https://static.myfigurecollection.net/upload/pictures/2023/07/31/3692316.gif" alt="obrigado meus guerreiros" width="400" />
